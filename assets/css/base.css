@@ -1,0 +1,68 @@
+/* reset css */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: 0;
+    font-family: 'Catamaran', sans-serif;
+
+}
+
+a {
+    font-weight: bold;
+    margin-right: 30px;
+    text-decoration: none;
+    padding: 10px;
+    box-sizing: 100px;
+    color: rgba(0, 0, 0, 0.993);
+}
+form {
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+}
+
+p {
+    
+    margin-left: 50px;
+    box-sizing: 50px;
+    color: rgb(0, 0, 0);
+}
+
+div {
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+}
+
+
+ul,
+ol {
+    list-style: none;
+    color:rgb(0, 0, 0)
+
+}
+
+.container {
+    width: 100%;
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 50%;
+    background-attachment: fixed;
+
+
+
+}
+
+
+.bg-image-1 {
+    background-image: linear-gradient(rgba(133, 132, 132, 0.719), rgba(255, 255, 255, 0.089)),
+    url(../img/pexels-grape-things-2647933.jpg)
+}
+
+.bg-image-2 {
+    background-image:url(../img/pexels-adrien-olichon-2537608.jpg);
+}
+
+.bg-image-3 {
+    width: 100%; 
+    
+}

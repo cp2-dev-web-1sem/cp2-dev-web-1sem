@@ -1,0 +1,51 @@
+/* reset css */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: 0;
+    font-family: 'Catamaran', sans-serif;
+
+}
+
+h1 {
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    margin-bottom: 900px;
+    font-weight: bold;
+}
+
+
+a{
+    
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+}
+
+header{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly;
+    padding: 80px;
+}
+
+
+
+.container {
+    width: 100%;
+    height: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 50%;
+    background-attachment: fixed;
+
+
+
+}
+
+
+.bg-image-1 {
+    background-image: linear-gradient(rgba(0, 0, 0, 0), rgb(255, 255, 255)),
+    url(../img/pexels-mathias-reding-11739092.jpg)
+}

@@ -18,7 +18,7 @@ form.addEventListener("submit", function(){
         alert("Preencha o campo nome")
       console.log("Preencha o campo nome")
     }
-    else if(telefone = ""){
+    else if(telefone == ""){
         alert("Preencha o campo telefone")
       console.log("preencha o compo telefone")
     }

@@ -2,7 +2,7 @@
 * {
     margin: 0;
     padding: 0;
-    box-sizing: 0;
+    box-sizing: border-box;
     font-family: 'Catamaran', sans-serif;
 
 }
@@ -61,4 +61,4 @@ p{
     height: 100%;
     background-image: linear-gradient(rgba(0, 0, 0, 0.719), rgba(0, 0, 0, 0.527)),
     url(../img/pexels-tim-mossholder-2339181.jpg)
-}
+}    

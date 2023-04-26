@@ -1,4 +1,3 @@
-//alert("Bem Vindo")
 
 function trocar(cor){
 

@@ -31,6 +31,19 @@ div {
     text-decoration: none;
     color: rgb(0, 0, 0);
 }
+h1 {
+    color: black;
+    font-weight: bold;
+    font-size: 40px;
+    padding-bottom: 40px;
+}
+
+
+h4 {
+    color: black;
+    font-size: 25px;
+    padding-bottom: 30px;
+}
 
 
 ul,
@@ -38,6 +51,10 @@ ol {
     list-style: none;
     color:rgb(0, 0, 0)
 
+}
+
+.btn {
+    margin-bottom: 15px;
 }
 
 .container {
@@ -54,7 +71,7 @@ ol {
 
 
 .bg-image-1 {
-    background-image: linear-gradient(rgba(133, 132, 132, 0.719), rgba(255, 255, 255, 0.089)),
+    background-image: linear-gradient(rgba(68, 68, 68, 0.719), rgba(100, 100, 100, 0.212)),
     url(../img/pexels-grape-things-2647933.jpg)
 }
 

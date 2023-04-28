@@ -1,6 +1,8 @@
 let test=confirm("Vamos conhecer sobre vinho")
 
 
+
+
 //pergunta 1
 let pergunta1 =(prompt("1) O vinho precisa ser guardado na horizontal ou na vertical?"))
 
